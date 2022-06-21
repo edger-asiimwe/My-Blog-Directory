@@ -3,6 +3,10 @@ Welcome, I'm Asiimwe Edgar, a Software Engineering Student who is passionate abo
 
 <br>
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>] LinkedIn articles &nbsp;
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>] Medium articles &nbsp;
+
 Take time to read and share your views. Don't forget to share and like.
 
 #### 📫 How to reach me:
