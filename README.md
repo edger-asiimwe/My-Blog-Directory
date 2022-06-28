@@ -3,9 +3,9 @@ Welcome, I'm `Asiimwe Edgar`, a `Software Engineering Student` who is passionate
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>  &nbsp;
-
 <img src="https://img.icons8.com/color/48/000000/medium-logo.png"/>  &nbsp;
+
+<a href="https://medium.com/@edgerasiimwe/why-every-startup-needs-a-product-manager-721957cb99c7">Why every startup needs a product manager</a>
 
 ### Don't forget to share and like.
 
